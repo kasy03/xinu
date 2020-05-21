@@ -1,0 +1,9 @@
+[submodule "apps/tscdf"]
+	path = apps/tscdf
+	url = git@github.iu.edu:swany/tscdf
+[submodule "apps/tsf"]
+	path = apps/tsf
+	url = git@github.iu.edu:swany/tscdf
+[submodule "apps/tscdf2"]
+	path = apps/tscdf2
+	url = git@github.iu.edu:swany/tscdf
