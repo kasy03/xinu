@@ -1,5 +1,8 @@
 # Welcome to Xinu
 
+Completed as a part of courework for Adavanced Operating Systems E519
+
+
 # Build instructions
 
 Copy the file compile/Makedefs.EXAMPLE to compile/Makedefs and make appropriate changes if necessary.  Make sure that the correct COMPILER_ROOT, LIBGCC_LOC and CONF_LFLAGS are set.
